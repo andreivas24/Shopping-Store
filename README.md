@@ -1,4 +1,6 @@
-# Store
+# Shopping Store
+
+Shopping store application using TypeScript, Angular, Node.js and Stripe.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.13.
 
